@@ -84,6 +84,14 @@ a:visited
 	text-decoration:none;
 	font-family:Calibri, sans-serif;
 	mso-font-charset:0;}
+.font17
+	{color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;}
 td
 	{mso-style-parent:style0;
 	padding-top:1px;
@@ -389,13 +397,29 @@ td
 	border:.5pt solid windowtext;}
 .xl106
 	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl107
+	{mso-style-parent:style0;
+	color:red;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl108
+	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:Garamond, serif;
 	mso-font-charset:0;
 	text-align:center;
 	vertical-align:middle;
 	white-space:normal;}
-.xl107
+.xl109
 	{mso-style-parent:style0;
 	font-size:12.0pt;
 	font-family:Garamond, serif;
@@ -404,7 +428,7 @@ td
 	text-align:center;
 	vertical-align:middle;
 	white-space:normal;}
-.xl108
+.xl110
 	{mso-style-parent:style16;
 	color:#0563C1;
 	text-decoration:underline;
@@ -413,7 +437,7 @@ td
 	text-align:center;
 	vertical-align:middle;
 	white-space:normal;}
-.xl109
+.xl111
 	{mso-style-parent:style0;
 	font-size:12.0pt;
 	font-weight:700;
@@ -421,20 +445,4 @@ td
 	mso-font-charset:0;
 	mso-number-format:"\@";
 	text-align:center;
-	white-space:normal;}
-.xl110
-	{mso-style-parent:style0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:.5pt solid windowtext;
-	border-left:.5pt solid windowtext;
-	white-space:normal;}
-.xl111
-	{mso-style-parent:style0;
-	color:red;
-	text-align:center;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
 	white-space:normal;}
