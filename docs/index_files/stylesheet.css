@@ -452,12 +452,19 @@ td
 	white-space:normal;}
 .xl113
 	{mso-style-parent:style0;
+	mso-number-format:"d\\-mmm";}
+.xl114
+	{mso-style-parent:style0;
+	mso-number-format:"d\\-mmm";
+	text-align:center;
+	vertical-align:middle;
+	white-space:normal;}
+.xl115
+	{mso-style-parent:style0;
 	text-align:center;
 	vertical-align:middle;
 	border-top:none;
 	border-right:.5pt solid windowtext;
 	border-bottom:.5pt solid windowtext;
-	border-left:.5pt solid windowtext;
-	background:#F2F2F2;
-	mso-pattern:black none;
+	border-left:none;
 	white-space:normal;}
