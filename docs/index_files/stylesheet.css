@@ -586,21 +586,18 @@ td
 	white-space:normal;}
 .xl127
 	{mso-style-parent:style0;
+	color:white;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl128
+	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:Garamond, serif;
 	mso-font-charset:0;
 	text-align:center;
 	vertical-align:middle;
-	white-space:normal;}
-.xl128
-	{mso-style-parent:style0;
-	mso-number-format:"d\\-mmm";
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;
 	white-space:normal;}
 .xl129
 	{mso-style-parent:style0;
@@ -609,20 +606,23 @@ td
 	vertical-align:middle;
 	border-top:none;
 	border-right:.5pt solid windowtext;
-	border-bottom:.5pt solid windowtext;
+	border-bottom:none;
 	border-left:.5pt solid windowtext;
 	white-space:normal;}
 .xl130
 	{mso-style-parent:style0;
+	mso-number-format:"d\\-mmm";
 	text-align:center;
-	border-top:.5pt solid windowtext;
+	vertical-align:middle;
+	border-top:none;
 	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;}
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
 .xl131
 	{mso-style-parent:style0;
 	text-align:center;
-	border-top:none;
+	border-top:.5pt solid windowtext;
 	border-right:.5pt solid windowtext;
 	border-bottom:none;
 	border-left:.5pt solid windowtext;}
@@ -631,9 +631,16 @@ td
 	text-align:center;
 	border-top:none;
 	border-right:.5pt solid windowtext;
-	border-bottom:.5pt solid windowtext;
+	border-bottom:none;
 	border-left:.5pt solid windowtext;}
 .xl133
+	{mso-style-parent:style0;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl134
 	{mso-style-parent:style0;
 	font-size:12.0pt;
 	font-family:Garamond, serif;
@@ -642,7 +649,7 @@ td
 	text-align:center;
 	vertical-align:middle;
 	white-space:normal;}
-.xl134
+.xl135
 	{mso-style-parent:style16;
 	color:#0563C1;
 	text-decoration:underline;
@@ -651,7 +658,7 @@ td
 	text-align:center;
 	vertical-align:middle;
 	white-space:normal;}
-.xl135
+.xl136
 	{mso-style-parent:style0;
 	font-size:12.0pt;
 	font-weight:700;
