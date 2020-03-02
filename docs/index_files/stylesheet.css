@@ -755,3 +755,11 @@ td
 	mso-number-format:"\@";
 	text-align:center;
 	white-space:normal;}
+.xl150
+	{mso-style-parent:style16;
+	color:#0563C1;
+	text-decoration:underline;
+	text-underline-style:single;
+	text-align:center;
+	border:.5pt solid windowtext;
+	white-space:normal;}
